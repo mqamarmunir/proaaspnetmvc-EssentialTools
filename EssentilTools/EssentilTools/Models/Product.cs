@@ -20,10 +20,12 @@ namespace EssentilTools.Models
     }
     public class LinqValueCalculator:IValueCalculator
     {
+        private static int counter = 0;
         private IDiscountHelper discounter;
         public LinqValueCalculator(IDiscountHelper discountParam)
         {
             discounter = discountParam;
+            System.Diagnostics.Debug.WriteLine("Instance {0} created.", ++counter);
         }
         public decimal ValueProducts(IEnumerable<Product> products)
         {
