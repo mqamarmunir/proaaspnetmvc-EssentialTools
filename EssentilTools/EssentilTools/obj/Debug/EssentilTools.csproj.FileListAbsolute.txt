@@ -53,6 +53,5 @@ C:\Users\qamar.munir\Source\Repos\proaaspnetmvc-EssentialTools\EssentilTools\Ess
 C:\Users\qamar.munir\Source\Repos\proaaspnetmvc-EssentialTools\EssentilTools\EssentilTools\bin\System.Web.Webpages.Razor.xml
 C:\Users\qamar.munir\Source\Repos\proaaspnetmvc-EssentialTools\EssentilTools\EssentilTools\bin\System.Web.Helpers.xml
 C:\Users\qamar.munir\Source\Repos\proaaspnetmvc-EssentialTools\EssentilTools\EssentilTools\bin\System.Web.Mvc.xml
-C:\Users\qamar.munir\Source\Repos\proaaspnetmvc-EssentialTools\EssentilTools\EssentilTools\obj\Debug\EssentilTools.csprojResolveAssemblyReference.cache
 C:\Users\qamar.munir\Source\Repos\proaaspnetmvc-EssentialTools\EssentilTools\EssentilTools\obj\Debug\EssentilTools.dll
 C:\Users\qamar.munir\Source\Repos\proaaspnetmvc-EssentialTools\EssentilTools\EssentilTools\obj\Debug\EssentilTools.pdb
